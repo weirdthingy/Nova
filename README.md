@@ -95,4 +95,8 @@ Nova 1.5 supports smart, hybrid importing via the `#use` directive. The compiler
 #use custom_game_logic // Imports and compiles custom_game_logic.nova
 #use math              // Directly taps into Python's native math package
 ```
+---
 
+## Note from the author
+
+> **Note:** Some variable names on the `compiler.py` file are in Spanish cause I'm Spanish by the way.
